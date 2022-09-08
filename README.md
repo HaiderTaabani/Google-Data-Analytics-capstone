@@ -1,0 +1,2 @@
+# Google-Data-Analytics-capstone
+This project is the capstone course Google data analytics using python and power bi  This data belongs to an American commercial company .  This company owns many stores in various American cities.  We will try to analyze this data and help stakeholders to make decisions regarding the following questions: Which cities achieved the most sales?    Where should we do new expansion?  What is the value of ROI  in each city?
